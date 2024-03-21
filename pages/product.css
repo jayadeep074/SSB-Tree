@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+    background-color: rgb(231, 231, 231);
+    width: 100%;
+}
+
+.navbar .icon{
+    display: flex;
+    align-items: center;
+}
+
+.navbar .icon img{
+    width: 50px;
+}
+
+.home .row{
+    display: flex;
+    align-items: center;
+}
+
+.home img{
+    width: 100%;
+}
